@@ -1,9 +1,9 @@
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap');
-</style>
+
+@import url('https://fonts.googleapis.com/css2?family=Trykker&display=swap');
+
 html {
   color: black;
-  font-family: 'Bree Serif', serif;
+  font-family: 'Trykker', serif;
 }
 
 .avatar {
