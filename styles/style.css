@@ -1,8 +1,9 @@
 <style>
-@import url('https://fonts.googleapis.com/css2?family=Arvo:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap');
+</style>
 html {
   color: black;
-  font-family: 'Arvo', serif;
+  font-family: 'Bree Serif', serif;
 }
 
 .avatar {
@@ -131,3 +132,4 @@ select {
     scroll-behavior: auto !important;
   }
 }
+{
