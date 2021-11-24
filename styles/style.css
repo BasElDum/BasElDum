@@ -55,8 +55,8 @@ align-items: center;
 flex-wrap: wrap;
 }
 body {
-background-color: #ffe7e6;
-background-image: linear-gradient(to bottom, #ffe7e6, #fafafa, #ffe7e6);
+background-color: #faf3f2;
+background-image: linear-gradient(to bottom, #faf3f2, #fafafa, #faf3f2);
 }
 /* Box sizing rules */
 *,
